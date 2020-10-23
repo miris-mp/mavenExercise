@@ -7,6 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>mavenExercise</artifactId>
     <version>1.0-SNAPSHOT</version>
+         <error></error>
 
 
 </project>
